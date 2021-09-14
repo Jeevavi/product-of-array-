@@ -12,7 +12,7 @@ public class ProductOfArray {
            for(int i=1;i<arr.length;i++) {
          product=product*arr[i];
     }
-      System.out.println("product of all the elements of an array:"+product);
+      System.out.println("product of all the elements of an array:"+arun);
           
       }
     }
